@@ -1,0 +1,57 @@
+[
+ {
+  "amount": 1500.0,
+  "docstatus": 0,
+  "doctype": "Ride Add On",
+  "modified": "2024-10-15 13:45:41.129182",
+  "name": "umnjdfstui",
+  "parent": "Ride 2-2024-0001",
+  "parentfield": "services",
+  "parenttype": "Ride Booking",
+  "service": "Tourist Guides"
+ },
+ {
+  "amount": 1500.0,
+  "docstatus": 0,
+  "doctype": "Ride Add On",
+  "modified": "2024-10-15 13:46:39.224760",
+  "name": "un9oojr05c",
+  "parent": "Ride3-2024-0001",
+  "parentfield": "services",
+  "parenttype": "Ride Booking",
+  "service": "Tourist Guides"
+ },
+ {
+  "amount": 500.0,
+  "docstatus": 0,
+  "doctype": "Ride Add On",
+  "modified": "2024-10-15 13:47:38.722670",
+  "name": "unsb01smn6",
+  "parent": "Ride1-2024-0001",
+  "parentfield": "services",
+  "parenttype": "Ride Booking",
+  "service": "Wi-Fi Access"
+ },
+ {
+  "amount": 1500.0,
+  "docstatus": 0,
+  "doctype": "Ride Add On",
+  "modified": "2024-10-15 13:46:39.224760",
+  "name": "un9on859vq",
+  "parent": "Ride3-2024-0001",
+  "parentfield": "services",
+  "parenttype": "Ride Booking",
+  "service": "Tourist Guides"
+ },
+ {
+  "amount": 500.0,
+  "docstatus": 0,
+  "doctype": "Ride Add On",
+  "modified": "2024-10-15 13:46:39.224760",
+  "name": "un9oql8d5s",
+  "parent": "Ride3-2024-0001",
+  "parentfield": "services",
+  "parenttype": "Ride Booking",
+  "service": "Wi-Fi Access"
+ }
+]

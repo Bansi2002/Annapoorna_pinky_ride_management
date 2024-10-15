@@ -1,0 +1,32 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/private/files/istockphoto-155439315-2048x2048.webp",
+  "make": "Travelling",
+  "modified": "2024-10-15 13:08:25.515763",
+  "name": "Ride1",
+  "price_per_km": 1000.0,
+  "type": "Travel"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/private/files/istockphoto-155439315-2048x2048.webp",
+  "make": "Tour",
+  "modified": "2024-10-15 13:08:54.782212",
+  "name": "Ride 2",
+  "price_per_km": 2000.0,
+  "type": "Travel"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/private/files/istockphoto-155439315-2048x2048.webp",
+  "make": "Trip",
+  "modified": "2024-10-15 13:09:17.493752",
+  "name": "Ride3",
+  "price_per_km": 2000.0,
+  "type": "Travel"
+ }
+]

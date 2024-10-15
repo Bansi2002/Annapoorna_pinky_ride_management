@@ -1,0 +1,97 @@
+[
+ {
+  "booking_date": "2024-10-15",
+  "customer": "CU0000003",
+  "customer_name": "Ride Customer",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 300.0,
+  "make": "Tour",
+  "modified": "2024-10-15 13:45:41.129182",
+  "name": "Ride 2-2024-0001",
+  "naming_series": "{vehicle}.-.YYYY.-.####",
+  "phone_number": "+91-8787898990",
+  "price_per_km": 2000.0,
+  "return_date": "2024-10-16",
+  "services": [
+   {
+    "amount": 1500.0,
+    "parent": "Ride 2-2024-0001",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   }
+  ],
+  "total_amount": 601500.0,
+  "type": "Tour",
+  "vehicle": "Ride 2"
+ },
+ {
+  "booking_date": "2024-10-15",
+  "customer": "CU0000002",
+  "customer_name": "Ride Customer One",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 300.0,
+  "make": "Trip",
+  "modified": "2024-10-15 13:46:39.224760",
+  "name": "Ride3-2024-0001",
+  "naming_series": "{vehicle}.-.YYYY.-.####",
+  "phone_number": null,
+  "price_per_km": 2000.0,
+  "return_date": "2024-10-16",
+  "services": [
+   {
+    "amount": 1500.0,
+    "parent": "Ride3-2024-0001",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   },
+   {
+    "amount": 1500.0,
+    "parent": "Ride3-2024-0001",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   },
+   {
+    "amount": 500.0,
+    "parent": "Ride3-2024-0001",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Wi-Fi Access"
+   }
+  ],
+  "total_amount": 603500.0,
+  "type": "Trip",
+  "vehicle": "Ride3"
+ },
+ {
+  "booking_date": "2024-10-24",
+  "customer": "CU0000003",
+  "customer_name": "Ride Customer",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 100.0,
+  "make": "Travelling",
+  "modified": "2024-10-15 13:47:38.722670",
+  "name": "Ride1-2024-0001",
+  "naming_series": "{vehicle}.-.YYYY.-.####",
+  "phone_number": "+91-8787898990",
+  "price_per_km": 1000.0,
+  "return_date": "2024-10-26",
+  "services": [
+   {
+    "amount": 500.0,
+    "parent": "Ride1-2024-0001",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Wi-Fi Access"
+   }
+  ],
+  "total_amount": 100500.0,
+  "type": "Travelling",
+  "vehicle": "Ride1"
+ }
+]

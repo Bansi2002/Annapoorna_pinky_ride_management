@@ -213,3 +213,19 @@ app_license = "MIT"
 # auth_hooks = [
 # 	"ride_management.auth.validate"
 # ]
+
+# fixtures = ["Ride Booking","Vehicle Ride","Item","Customer","Ride Add On"]
+fixtures = [{"dt": "Item", "filters": [
+		[
+			"name", "in", [
+				"Wi-Fi Access", "Tourist Guides","Travel Insurance"
+			]
+		]
+	]},
+    {"dt": "Customer", "filters": [
+		[
+			"name", "in", [
+				"CU0000003", "CU0000002"
+			]
+		]
+	]},"Ride Booking","Vehicle Ride","Ride Add On"]
